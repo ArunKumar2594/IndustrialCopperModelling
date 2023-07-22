@@ -1,0 +1,3 @@
+# IndustrialCopperModelling
+
+WORKING IN PROGRESS
